@@ -1,3 +1,8 @@
+# Hi, I'm Siddhesh Patil 👋
+
+🔧 Data Center Engineer  
+💻 Linux & Windows Server | Networking | Monitoring  
+
 ## 🔧 Skills
 
 ### Server Management
@@ -18,3 +23,7 @@
 ### Troubleshooting
 - Disk space issues
 - Server downtime
+- Network problems
+
+## 🚀 Goal
+To become a DevOps / Cloud Engineer
